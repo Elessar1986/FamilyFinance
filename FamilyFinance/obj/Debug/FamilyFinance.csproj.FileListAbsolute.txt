@@ -1,0 +1,14 @@
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\bin\Debug\FamilyFinance.exe.config
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\bin\Debug\FamilyFinance.exe
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\bin\Debug\FamilyFinance.pdb
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.FamilyMemberAddEdit.resources
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.Form1.resources
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.Properties.Resources.resources
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.csproj.GenerateResource.Cache
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.exe
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.pdb
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.AddIncome.resources
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\obj\Debug\FamilyFinance.DeleteForm.resources
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\bin\Debug\MyFinance.mdf
+D:\Programming\Projects\ADO.NET\MS SQL\FamilyFinance\FamilyFinance\bin\Debug\MyFinance_log.ldf
